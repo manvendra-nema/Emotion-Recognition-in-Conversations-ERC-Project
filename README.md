@@ -19,12 +19,13 @@ Emotion Recognition in Conversation (ERC) is a specialized field focused on auto
 
 ### Model M1: Custom Architecture 🧠
 - **Description:** A unique model architecture designed for emotion recognition and emotion flip detection within conversations. Details and code are provided in the repository.
+- ![image](https://github.com/user-attachments/assets/0d8de107-66df-4c11-9659-63f549b37636)
+
 
 ### Model M2: Custom Architecture 🧠
 - **Description:** Another distinct model architecture focuses on the same goals as M1 but with a different approach. Details and code are provided in the repository.
+- ![image](https://github.com/user-attachments/assets/3808c59d-2ef3-44a8-9b9a-7ca7f4ac5489)
 
-### Optional: Paper’s Model Architecture
-- **Description:** Re-implementation of the model architecture mentioned in the referenced paper. This serves as a baseline for comparison with custom models.
 
 ## 📊 Evaluation Metrics
 - **Emotion Identification Accuracy**
