@@ -3,7 +3,7 @@
 This project is inspired by the paper “Discovering Emotion and Reasoning its Flip in Multi-Party Conversations using Masked Memory Network and Transformer.”
 
 ## 📂 Datasets
-We are utilizing a modified version of the MELD-FR dataset for this task. The dataset has been split for training and validation. Separate chunks of modified data will be provided by TAs for testing purposes, and the final evaluation will be part of demos.
+We are utilizing a modified version of the MELD-FR dataset for this task. The dataset has been split for training and validation.
 
 ## 📚 Project Overview: ERC (Emotion Recognition in Conversation)
 
