@@ -39,9 +39,3 @@ Emotion Recognition in Conversation (ERC) is a specialized field focused on auto
 4. A detailed report explaining the intuition behind the models, data splits, and all relevant details.
 5. Training loss and validation loss vs. epochs plots for each model.
 6. Answers to relevant viva questions.
-
-## 📦 How to Run
-1. **Clone the Repository:**
-   ```sh
-   git clone <repository-url>
-   cd <repository-folder>
